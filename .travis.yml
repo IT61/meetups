@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - 8
+
+install:
+  - npm install -g doctoc
+
+script:
+  - doctoc readme.md
+  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+  - git config credential.helper "store --file=.git/credentials"
+  - git commit -a -m 'Обновление содержания (через Travis CI) [ci skip]'
+  - git push origin HEAD:master

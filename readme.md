@@ -8,12 +8,17 @@
 
 ## Содержание
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 * [RND.JS](#rndjs-️)
 * [Quality Assurance Meetup](#quality-assurance-meetup-)
 * [HR Meetup](#hr-meetup-)
 * [Mobile Meetup](#mobile-meetup-)
 * [Management meetup](#management-meetup-)
 * [RnD PHP](#rnd-php-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## [RND.JS 🤷‍♂️](https://vk.com/rndjs)
 
