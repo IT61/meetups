@@ -21,6 +21,7 @@
   - [RND.JS #2](#rndjs-2)
   - [RND.JS #1](#rndjs-1)
 - [Quality Assurance Meetup 🐛](#quality-assurance-meetup-)
+  - [Quality Assurance Meetup #7](#quality-assurance-meetup-7)
   - [Quality Assurance Meetup #6](#quality-assurance-meetup-6)
   - [Quality Assurance Meetup #5](#quality-assurance-meetup-5)
   - [Quality Assurance Meetup #4](#quality-assurance-meetup-4)
