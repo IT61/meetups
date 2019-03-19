@@ -29,6 +29,7 @@
   - [Quality Assurance Meetup #2](#quality-assurance-meetup-2)
   - [Quality Assurance Meetup #1](#quality-assurance-meetup-1)
 - [HR Meetup 🤝](#hr-meetup-)
+  - [HR Meetup #6](#hr-meetup-6)
   - [HR Meetup #5](#hr-meetup-5)
   - [HR Meetup #4](#hr-meetup-4)
   - [HR Meetup #3](#hr-meetup-3)
