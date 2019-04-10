@@ -13,6 +13,7 @@
 
 
 - [RND.JS 🤷‍♂️](#rndjs-%E2%80%8D)
+  - [RND.JS #8](#rndjs-8)
   - [RND.JS #7](#rndjs-7)
   - [RND.JS #6](#rndjs-6)
   - [RND.JS #5](#rndjs-5)
