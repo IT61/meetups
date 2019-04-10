@@ -52,6 +52,17 @@
 
 ## [RND.JS 🤷‍♂️](https://vk.com/rndjs)
 
+### [RND.JS #8](https://it61.info/events/2019-04-06-rnd-js-8-349)
+
+Дата: **6 апреля 2019**
+
+| | |
+| --- | --- |
+| Тесты без головной боли / Сергей Кувакин | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_tests_without_pain&post=-116797910_291&cc_key=) |
+| Transformers in TypeScript / Евгений Тимохов | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_transformers_in_typescript_&post=-116797910_291&cc_key=) |
+| Реактивная печать PDF / Виталий Слободин | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_pdf_react_print&post=-116797910_291&cc_key=) |
+| Бэкенд для фронтендеров. Node.js как лучшее из зол / Андрей Мелихов | [:notebook:](https://vk.com/doc475435776_498757154?hash=be3dd7cfd5b0499ebe&dl=75dcf5ee53c7184089) |
+
 ### [RND.JS #7](https://it61.info/events/2018-09-08-rnd-js-7-304)
 
 Дата: **8 сентября 2018**
