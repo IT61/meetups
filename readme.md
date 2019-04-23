@@ -59,10 +59,10 @@
 
 | | |
 | --- | --- |
-| Тесты без головной боли / Сергей Кувакин | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_tests_without_pain&post=-116797910_291&cc_key=) |
-| Transformers in TypeScript / Евгений Тимохов | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_transformers_in_typescript_&post=-116797910_291&cc_key=) |
-| Реактивная печать PDF / Виталий Слободин | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_pdf_react_print&post=-116797910_291&cc_key=) |
-| Бэкенд для фронтендеров. Node.js как лучшее из зол / Андрей Мелихов | [:notebook:](https://vk.com/doc475435776_498757154?hash=be3dd7cfd5b0499ebe&dl=75dcf5ee53c7184089) |
+| [Тесты без головной боли / Сергей Кувакин](https://www.youtube.com/watch?v=sJtU_tRLo-Q) | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_tests_without_pain&post=-116797910_291&cc_key=) |
+| [Трансформеры в TypeScript / Евгений Тимохов](https://www.youtube.com/watch?v=8PItIHFdvrE) | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_transformers_in_typescript_&post=-116797910_291&cc_key=) |
+| [Реактивная печать PDF / Виталий Слободин](https://www.youtube.com/watch?v=jnAgIjcPXt0) | [:notebook:](https://vk.com/away.php?to=http%3A%2F%2Fbit.ly%2Frndjs8_pdf_react_print&post=-116797910_291&cc_key=) |
+| [Бэкенд для фронтендеров. Node.js как лучшее из зол / Андрей Мелихов](https://www.youtube.com/watch?v=_LTof44zRYQ) | [:notebook:](https://vk.com/doc475435776_498757154?hash=be3dd7cfd5b0499ebe&dl=75dcf5ee53c7184089) |
 
 ### [RND.JS #7](https://it61.info/events/2018-09-08-rnd-js-7-304)
 
