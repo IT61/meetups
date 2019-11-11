@@ -49,8 +49,8 @@
   - [Management meetup #2](#management-meetup-2)
   - [Management meetup #1](#management-meetup-1)
 - [RnD PHP 🐘](#rnd-php-)
-  - [RnD PHP #0](#rnd-php-0)
   - [RnD PHP #1](#rnd-php-1)
+  - [RnD PHP #0](#rnd-php-0)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
