@@ -30,6 +30,8 @@
   - [Quality Assurance Meetup #2](#quality-assurance-meetup-2)
   - [Quality Assurance Meetup #1](#quality-assurance-meetup-1)
 - [HR Meetup 🤝](#hr-meetup-)
+  - [HR Meetup #8](#hr-meetup-8)
+  - [HR Meetup #7](#hr-meetup-7)
   - [HR Meetup #6](#hr-meetup-6)
   - [HR Meetup #5](#hr-meetup-5)
   - [HR Meetup #4](#hr-meetup-4)
@@ -48,6 +50,7 @@
   - [Management meetup #1](#management-meetup-1)
 - [RnD PHP 🐘](#rnd-php-)
   - [RnD PHP #0](#rnd-php-0)
+  - [RnD PHP #1](#rnd-php-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
